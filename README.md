@@ -28,3 +28,9 @@ References:
 Stackoverflow.com
 cplusplus.com
 Data Structures and Algorithims in C++, 2nd Ed. (Goodrich, Tamassia, Mount)
+
+Instructions:
+'cd' to navigate to folder
+g++ *.cpp
+./a.out to operate with no loaded in records
+./a.out test.in to load in table files
